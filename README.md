@@ -5,6 +5,8 @@
 
 - 💬 Ask me about **AWS Redshift, SQL, Tableau, Process Automation, Digital Transformation**
 
+- Tableau public profile (https://public.tableau.com/app/profile/ali.iqbal)
+
 - 📫 How to reach me **alibinshahid92@gmail.com**
 
 - ⚡ Fun fact **I'm a pilot too**
